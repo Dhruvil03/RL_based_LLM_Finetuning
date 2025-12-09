@@ -1,0 +1,87 @@
+{"prompt": "What is 1 + 4? Answer with an integer.", "answer": "5"}
+{"prompt": "Compute 9 - 2. Answer with an integer.", "answer": "7"}
+{"prompt": "What is 3 + 7? Answer with an integer.", "answer": "10"}
+{"prompt": "Compute 15 - 9. Answer with an integer.", "answer": "6"}
+{"prompt": "What is 4 + 12? Answer with an integer.", "answer": "16"}
+{"prompt": "Compute 18 - 4. Answer with an integer.", "answer": "14"}
+{"prompt": "What is 2 + 14? Answer with an integer.", "answer": "16"}
+{"prompt": "Compute 11 - 3. Answer with an integer.", "answer": "8"}
+{"prompt": "What is 5 + 6? Answer with an integer.", "answer": "11"}
+{"prompt": "Compute 17 - 10. Answer with an integer.", "answer": "7"}
+
+{"prompt": "What is 8 + 7? Answer with an integer.", "answer": "15"}
+{"prompt": "Compute 14 - 3. Answer with an integer.", "answer": "11"}
+{"prompt": "What is 9 + 4? Answer with an integer.", "answer": "13"}
+{"prompt": "Compute 16 - 8. Answer with an integer.", "answer": "8"}
+{"prompt": "What is 10 + 9? Answer with an integer.", "answer": "19"}
+{"prompt": "Compute 20 - 6. Answer with an integer.", "answer": "14"}
+{"prompt": "What is 7 + 11? Answer with an integer.", "answer": "18"}
+{"prompt": "Compute 12 - 5. Answer with an integer.", "answer": "7"}
+{"prompt": "What is 6 + 13? Answer with an integer.", "answer": "19"}
+{"prompt": "Compute 19 - 7. Answer with an integer.", "answer": "12"}
+
+{"prompt": "What is 3 + 8? Answer with an integer.", "answer": "11"}
+{"prompt": "Compute 13 - 6. Answer with an integer.", "answer": "7"}
+{"prompt": "What is 5 + 9? Answer with an integer.", "answer": "14"}
+{"prompt": "Compute 11 - 8. Answer with an integer.", "answer": "3"}
+{"prompt": "What is 12 + 6? Answer with an integer.", "answer": "18"}
+{"prompt": "Compute 18 - 2. Answer with an integer.", "answer": "16"}
+{"prompt": "What is 7 + 10? Answer with an integer.", "answer": "17"}
+{"prompt": "Compute 15 - 5. Answer with an integer.", "answer": "10"}
+{"prompt": "What is 14 + 3? Answer with an integer.", "answer": "17"}
+{"prompt": "Compute 17 - 11. Answer with an integer.", "answer": "6"}
+
+{"prompt": "What is 4 + 5? Answer with an integer.", "answer": "9"}
+{"prompt": "Compute 10 - 7. Answer with an integer.", "answer": "3"}
+{"prompt": "What is 6 + 8? Answer with an integer.", "answer": "14"}
+{"prompt": "Compute 12 - 6. Answer with an integer.", "answer": "6"}
+{"prompt": "What is 13 + 2? Answer with an integer.", "answer": "15"}
+{"prompt": "Compute 20 - 14. Answer with an integer.", "answer": "6"}
+{"prompt": "What is 15 + 4? Answer with an integer.", "answer": "19"}
+{"prompt": "Compute 16 - 4. Answer with an integer.", "answer": "12"}
+{"prompt": "What is 11 + 7? Answer with an integer.", "answer": "18"}
+{"prompt": "Compute 19 - 12. Answer with an integer.", "answer": "7"}
+
+{"prompt": "What is 3 + 11? Answer with an integer.", "answer": "14"}
+{"prompt": "Compute 14 - 8. Answer with an integer.", "answer": "6"}
+{"prompt": "What is 9 + 8? Answer with an integer.", "answer": "17"}
+{"prompt": "Compute 13 - 1. Answer with an integer.", "answer": "12"}
+{"prompt": "What is 10 + 5? Answer with an integer.", "answer": "15"}
+{"prompt": "Compute 18 - 3. Answer with an integer.", "answer": "15"}
+{"prompt": "What is 7 + 9? Answer with an integer.", "answer": "16"}
+{"prompt": "Compute 17 - 6. Answer with an integer.", "answer": "11"}
+{"prompt": "What is 12 + 3? Answer with an integer.", "answer": "15"}
+{"prompt": "Compute 20 - 5. Answer with an integer.", "answer": "15"}
+
+{"prompt": "What is 4 + 14? Answer with an integer.", "answer": "18"}
+{"prompt": "Compute 16 - 7. Answer with an integer.", "answer": "9"}
+{"prompt": "What is 6 + 7? Answer with an integer.", "answer": "13"}
+{"prompt": "Compute 19 - 4. Answer with an integer.", "answer": "15"}
+{"prompt": "What is 8 + 6? Answer with an integer.", "answer": "14"}
+{"prompt": "Compute 15 - 2. Answer with an integer.", "answer": "13"}
+{"prompt": "What is 11 + 8? Answer with an integer.", "answer": "19"}
+{"prompt": "Compute 17 - 8. Answer with an integer.", "answer": "9"}
+{"prompt": "What is 5 + 10? Answer with an integer.", "answer": "15"}
+{"prompt": "Compute 18 - 11. Answer with an integer.", "answer": "7"}
+
+{"prompt": "What is 9 + 6? Answer with an integer.", "answer": "15"}
+{"prompt": "Compute 12 - 9. Answer with an integer.", "answer": "3"}
+{"prompt": "What is 7 + 8? Answer with an integer.", "answer": "15"}
+{"prompt": "Compute 14 - 10. Answer with an integer.", "answer": "4"}
+{"prompt": "What is 13 + 5? Answer with an integer.", "answer": "18"}
+{"prompt": "Compute 20 - 7. Answer with an integer.", "answer": "13"}
+{"prompt": "What is 2 + 17? Answer with an integer.", "answer": "19"}
+{"prompt": "Compute 11 - 4. Answer with an integer.", "answer": "7"}
+{"prompt": "What is 3 + 16? Answer with an integer.", "answer": "19"}
+{"prompt": "Compute 19 - 15. Answer with an integer.", "answer": "4"}
+
+{"prompt": "What is 4 + 8? Answer with an integer.", "answer": "12"}
+{"prompt": "Compute 13 - 9. Answer with an integer.", "answer": "4"}
+{"prompt": "What is 6 + 11? Answer with an integer.", "answer": "17"}
+{"prompt": "Compute 16 - 2. Answer with an integer.", "answer": "14"}
+{"prompt": "What is 10 + 7? Answer with an integer.", "answer": "17"}
+{"prompt": "Compute 15 - 11. Answer with an integer.", "answer": "4"}
+{"prompt": "What is 8 + 9? Answer with an integer.", "answer": "17"}
+{"prompt": "Compute 17 - 3. Answer with an integer.", "answer": "14"}
+{"prompt": "What is 12 + 5? Answer with an integer.", "answer": "17"}
+{"prompt": "Compute 14 - 1. Answer with an integer.", "answer": "13"}

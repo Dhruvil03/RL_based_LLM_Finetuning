@@ -1,0 +1,27 @@
+# Training configuration for GRPO-style reinforcement fine-tuning
+model_name: "TinyLlama/TinyLlama-1.1B-Chat-v1.0"  # change to any causal LM on Hugging Face
+max_prompt_length: 128
+max_completion_length: 64
+
+# Data
+train_file: "data/math_tasks_train.jsonl"
+eval_file: "data/math_tasks_eval.jsonl"
+num_train_steps: 50          # increase for real training
+eval_every: 10
+save_every: 50
+output_dir: "checkpoints"
+
+# GRPO / RL settings
+group_size: 4                # number of samples per prompt
+learning_rate: 5e-6
+batch_size: 2                # number of prompts per batch
+gamma: 1.0                   # no discounting (single-step tasks)
+kl_coeff: 0.05               # coefficient for KL penalty
+max_grad_norm: 1.0
+
+# Generation settings
+temperature: 0.7
+top_p: 0.9
+
+# Device / misc
+seed: 42
